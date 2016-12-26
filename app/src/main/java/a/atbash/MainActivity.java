@@ -8,7 +8,6 @@ import android.widget.EditText;
 import android.widget.GridLayout;
 
 public class MainActivity extends AppCompatActivity {
-    //check3
     EditText editText;
     Button b1;
     Button b2;
